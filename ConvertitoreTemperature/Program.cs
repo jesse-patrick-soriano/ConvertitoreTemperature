@@ -34,7 +34,7 @@ while (true)
         continue;
     }
 
-    double risultato = 0;
+    double risultato;
     string unitaOrigine = "";
     string unitaDestinazione = "";
 
